@@ -6,3 +6,5 @@
 
 [LAB 04] (https://github.com/bharath922/aiml-lab/blob/main/LAB04.ipynb)
 
+[LAB 05] (https://github.com/bharath922/aiml-lab/blob/main/LAB05.ipynb)
+
