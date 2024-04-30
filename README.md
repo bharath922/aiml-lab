@@ -14,3 +14,5 @@
 
 [LAB 08] (https://github.com/bharath922/aiml-lab/blob/main/LAB08.ipynb)
 
+[LAB 09] (https://github.com/bharath922/aiml-lab/blob/main/LAB09.ipynb)
+
